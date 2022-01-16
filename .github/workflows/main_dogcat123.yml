@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dogcat123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48B6A1F0AB484D9DA0F6BC9E4D063B4E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BD7C6D2DAC54CE18188D12D24F830C5 }}
